@@ -1,4 +1,4 @@
-# TTE
+# Tool Tip Enhanced Fixed
 
 All credits to blizzsorc creator and owner of the Tooltip Enhanced addon. I'm just patching a few things until he can update the main addon.
 
