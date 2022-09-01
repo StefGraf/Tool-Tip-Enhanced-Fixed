@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: Tooltip Enhanced
+## Author: blizzsorc
+## Version: 1.4.1
+## Notes: A lightweight tooltip addon that preserves the default style.
+
+Config.lua
+FixShamanClassColor.lua
+TooltipEnhanced.lua
+AttachToCursor.lua
+SpellID.lua
