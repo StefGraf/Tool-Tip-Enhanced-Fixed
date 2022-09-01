@@ -10,7 +10,7 @@ local _, addonTable = ...
 addonTable.projects = {
     isRetail      = ( WOW_PROJECT_ID == WOW_PROJECT_MAINLINE ),
     isClassic     = ( WOW_PROJECT_ID == WOW_PROJECT_CLASSIC ),
-    isClassic_TBC = ( WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC ),
+    isClassic_TBC = ( WOW_PROJECT_ID == WOW_PROJECT_BURNING_CRUSADE_CLASSIC ), -- WOTLK will reuse WOW_PROJECT_BURNING_CRUSADE_CLASSIC
 
     -- isRetail      = false,
     -- isClassic     = true,
